@@ -1,4 +1,4 @@
-# MRE for bug TBD
+# MRE for bug [b/264764037](https://issuetracker.google.com/issues/264764037)
 
 Opening keyboard when displaying dialog that has its size set to `match_parent` causes it to shift too much up, resulting in empty space between dialog and keyboard for a few frames. After that everything moves into expected positions.
 
